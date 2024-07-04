@@ -2,7 +2,7 @@
 
 ## Project Description
 
-* When I started this project I had a few key things in mind :
+* **_When I started this project I had a few key things in mind_** :
 
   * **Learning from Real-world Examples** - Cloning professional websites allows you to learn from real-world examples. By analyzing and replicating the design and layout of these sites, you can discover new techniques and improve your skills.
 
@@ -14,7 +14,7 @@
 
   * **Problem-solving Challenges** - Each website you clone presents unique design concepts. By tackling these challenges, you'll enhance your problem-solving abilities and gain confidence in implementing various features.
  
-* Technologies used :
+* **Technologies used** :
 
   * **HTML**
   * **CSS**
@@ -22,7 +22,7 @@
   * **GITHUB**
   * **GITHUB DESKTOP**
  
-* Challenges :
+* **Challenges** :
 
   * **Bugs caused by mispelling**
   * **Making the webpage responsive on any screen size**
