@@ -33,7 +33,7 @@
 
   ### Link to clone page :
 
-  **_link will go here once available_**
+  **_[Google Clone Page Project](https://idyllic-sawine-f6b0e8.netlify.app/)_**
 
   ## Credits
 
